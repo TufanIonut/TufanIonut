@@ -12,7 +12,9 @@
 </p>
 
 
- [![Contact Me](https://img.shields.io/badge/Contact%20Me-%40ionuttufan04%40gmail.com-green?style=flat&logo=gmail)](mailto:ionuttufan04@gmail.com)
+<div align="center">
+  [![Contact Me](https://img.shields.io/badge/Contact%20Me-%40ionuttufan04%40gmail.com-green?style=flat&logo=gmail)](mailto:ionuttufan04@gmail.com)
+</div>
 
 
 - 🌱 I’m currently learning **C#, Java, Python**
