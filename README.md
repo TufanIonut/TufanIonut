@@ -12,7 +12,8 @@
 </p>
 
 <p align="center"> 
-  <a href="mailto:ionuttufan04@gmail.com" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; border: none; cursor: pointer; transition: background-color 0.3s;">Contact Me</a>
+  [![Contact Me](https://img.shields.io/badge/Contact%20Me-%40ionuttufan04%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:ionuttufan04@gmail.com)
+
 
 </p>
 
