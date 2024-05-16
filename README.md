@@ -52,7 +52,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tufanionut&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tufanionut&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tufanionut" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tufanionut&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tufanionut&show_icons=true&locale=en" alt="GitHub Stats" style="width: 300px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tufanionut" alt="GitHub Streak" style="width: 300px;" />
 </div>
+
