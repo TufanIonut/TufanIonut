@@ -12,9 +12,9 @@
 </p>
 
 
-<div align="center">
-  [![Contact Me](https://img.shields.io/badge/Contact%20Me-%40ionuttufan04%40gmail.com-green?style=flat&logo=gmail)](mailto:ionuttufan04@gmail.com)
-</div>
+| <center>[![Contact Me](https://img.shields.io/badge/Contact%20Me-%40ionuttufan04%40gmail.com-green?style=flat&logo=gmail)](mailto:ionuttufan04@gmail.com)</center> |
+|---|
+
 
 
 - 🌱 I’m currently learning **C#, Java, Python**
