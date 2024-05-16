@@ -10,10 +10,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=tufanionut&theme=discord&row=1" alt="GitHub Profile Trophy"/>
   </a> 
 </p>
+/br
+/br
 
-<p>
-  
-</p>
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-%40ionuttufan04%40gmail.com-green?style=flat&logo=gmail)](mailto:ionuttufan04@gmail.com)
 
 
