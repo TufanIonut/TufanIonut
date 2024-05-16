@@ -11,9 +11,9 @@
   </a> 
 </p>
 
-<p align="center"> 
+
  [![Contact Me](https://img.shields.io/badge/Contact%20Me-%40ionuttufan04%40gmail.com-green?style=flat&logo=gmail)](mailto:ionuttufan04@gmail.com)
-</p>
+
 
 - 🌱 I’m currently learning **C#, Java, Python**
 - 💬 Ask me about **C#, .NET**
