@@ -12,7 +12,8 @@
 </p>
 
 <p align="center"> 
-  <a href="mailto:ionuttufan04@gmail.com">Contact Me</a>
+  <a href="mailto:ionuttufan04@gmail.com" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; border: none; cursor: pointer; transition: background-color 0.3s;">Contact Me</a>
+
 </p>
 
 - 🌱 I’m currently learning **C#, Java, Python**
