@@ -18,7 +18,7 @@
 
 
 
-- 🌱 I’m currently learning **C#, Java, Python**
+- 🌱 I’m currently learning **C#, .NET CORE , ANGULAR**
 - 💬 Ask me about **C#, .NET**
 - ⚡ Fun fact: **I can do anything if I'm properly motivated**
 
